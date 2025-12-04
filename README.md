@@ -81,8 +81,9 @@ disp("FDM and Demultiplexing completed with NEW frequencies!");
 
 <h2>Tabulation:</h2>
 
-<img width="437" height="479" alt="image" src="https://github.com/user-attachments/assets/c464226a-3ac6-4403-9e25-411aecca7b5f" />
-![Uploading image.png…]()
+<img width="458" height="600" alt="image" src="https://github.com/user-attachments/assets/8ef55e71-d327-4f33-b6dd-e7acf85acd56" />
+
+<img width="437" height="479" alt="image" src="https://github.com/user-attachments/assets/1f188856-b71c-4029-ae21-eb4cc5090da9" />
 
 
 
